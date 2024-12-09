@@ -1,0 +1,9 @@
+{
+    "roms": [
+        {"name": "LMODroid", "androidver": "13", "romver": "4.2", "official": false, "download-link": ""},
+        {"name": "Crdroid", "androidver": "13", "romver": "9.15", "official": false, "download-link": ""}
+    ],
+    "kernel": [
+        {"name": "Excalibur", "androidver": "13-15", "download-link": "", "creator": ""}
+    ]
+}
