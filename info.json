@@ -4,7 +4,7 @@
         {"name": "Crdroid", "desc":"CrDroid é uma custom rom baseada na LineageOS, com o foco em customização e fluidez.", "androidver": "13", "romver": "9.15", "date": "17/04/2024", "official": false, "gapps": true, "download": "https://t.me/redminote12sbrasil/45444", "creator" : "Nem1xx"},
         {"name": "Derpfest", "desc":"Derpfest é uma custom rom baseado em AOSP, o foco dela é em customização.", "androiver": "13", "romver": "13", "date": "21/09/2023", "official": false, "gapps": true, "download": "https://sourceforge.net/projects/fleur-files/files/Sea%28RedmiNote12S%29/DerpFest-13-Community-Tango-sea-20230921-1144.zip/download", "creator": "Nem1xx"}
     ],
-    "kernel": [
+    "kernels": [
         {"name": "Excalibur", "desc": "Excalibur é um kernel com versões para bateria e outra para desempenho.", "androidver": "13-15", "kernelver": "4.19.249", "date": "04/12/2024", "download": "https://t.me/redminote12sbrasil/93555", "creator": "LiamSDK"},
         {"name": "Aether", "desc": "Aether é um kernel com versões para bateria e outra para desempenho.", "androidver": "13-15", "kernelver": "4.19.249", "date": "26/11/2024", "download": "https://t.me/redminote12sbrasil/94499", "creator": "Raphakk"}
     ]
