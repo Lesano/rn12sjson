@@ -1,13 +1,8 @@
 {
     "roms": [
-        {"name": "LMODroid", "desc": "LMODroid é uma custom rom baseada na LineageOS, com o foco em privacidade.", "androidver": "13", "romver": "4.2", "date": "12/08/2024", "official": false, "gapps": true, "download": "https://t.me/redminote12sbrasil/64080", "screenshots": "https://lmo.framer.website/lmodroid", "creator": "Nem1xx"},
-        {"name": "Crdroid", "desc":"CrDroid é uma custom rom baseada na LineageOS, com o foco em customização e fluidez.", "androidver": "13", "romver": "9.15", "date": "17/04/2024", "official": false, "gapps": true, "download": "https://t.me/redminote12sbrasil/45444", "creator" : "Nem1xx"},
-        {"name": "Derpfest", "desc":"Derpfest é uma custom rom baseado em AOSP, o foco dela é em customização.", "androidver": "13", "romver": "13", "date": "21/09/2023", "official": false, "gapps": true, "download": "https://sourceforge.net/projects/fleur-files/files/Sea%28RedmiNote12S%29/DerpFest-13-Community-Tango-sea-20230921-1144.zip/download", "creator": "Nem1xx"},
-        {"name": "iOS", "desc": "iOS é um sistema operativo criado pela Apple, foi baseado no iPhone 11.", "androidver": "-", "romver": "17.1", "date": "01/04/2024", "official": false, "gapps": false, "download": "https://bit.ly/4cFo5G4", "creator": "Anonymus"}
+        {"name": "LMODroid", "desc": "LMODroid é uma custom rom baseada na LineageOS, com o foco em privacidade.", "androidver": "15", "romver": "6.2", "date": "02/08/2024", "official": false, "gapps": false, "download": "https://t.me/redminote12sbrasil/190622", "screenshots": "https://lmo.framer.website/lmodroid", "creator": "Nem1xx"}
     ],
     "kernels": [
-        {"name": "Aether", "desc": "Aether é um kernel com versões para bateria e outra para desempenho.", "androidver": "13-15", "kernelver": "4.19.249", "date": "26/11/2024", "download": "https://t.me/redminote12sbrasil/94499", "creator": "Raphakk"},
-        {"name": "Excalibur", "desc": "Excalibur é um kernel com versões para bateria e outra para desempenho.", "androidver": "13-15", "kernelver": "4.19.323", "date": "09/12/2024", "download": "https://t.me/redminote12sbrasil/96501", "creator": "LiamSDK"},
-        {"name": "Excalibur V3", "desc": "Excalibur é um kernel com versões para bateria e outra para desempenho.", "androidver": "12-15", "kernelver": "4.19.323", "date": "19/12/2024", "download": "https://t.me/redminote12sbrasil/100299", "creator": "LiamSDK"}
+        {"name": "Excalibur V1", "desc": "Excalibur é um kernel com KSU incluido para uso.", "androidver": "MIUI 14/HyperOS 1 e AOSP 13-15", "kernelver": "4.19.325", "date": "04/08/2025", "download": "https://t.me/redminote12sbrasil/96501", "creator": "LiamSDK"}
     ]
 }
