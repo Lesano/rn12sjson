@@ -1,6 +1,6 @@
 {
     "roms": [
-        {"name": "LMODroid", "desc": "LMODroid é uma custom rom baseada na LineageOS, com o foco em privacidade.", "androidver": "15", "romver": "6.2", "date": "02/08/2024", "official": false, "gapps": false, "download": "https://t.me/redminote12sbrasil/190622", "screenshots": "https://lmo.framer.website/lmodroid", "creator": "Nem1xx"}
+        {"name": "LMODroid", "desc": "LMODroid é uma custom rom baseada na LineageOS, com o foco em privacidade.", "androidver": "15", "romver": "6.2", "date": "02/08/2024", "official": false, "gapps": false, "download": "https://t.me/redminote12sbrasil/190622", "linkgapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-15/16-Jul-2025/", "screenshots": "https://lmo.framer.website/lmodroid", "creator": "Nem1xx"}
     ],
     "kernels": [
         {"name": "Excalibur V1", "desc": "Excalibur é um kernel com KSU incluido para uso.", "androidver": "MIUI 14/HyperOS 1 e AOSP 13-15", "kernelver": "4.19.325", "date": "04/08/2025", "download": "https://t.me/redminote12sbrasil/96501", "creator": "LiamSDK"}
